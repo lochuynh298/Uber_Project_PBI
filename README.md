@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/d9be363b-23ff-4e12-b949-7dc8552d97fc)#  Project Title: Uber Analysis 
+#  Project Title: Uber Analysis 
 
 🤵 Author: Lộc Huỳnh
 
@@ -27,3 +27,8 @@
 - Business Perfomance : Analyse Uber trip data using Power BI to gain insights into booking trends, revenue, and trip efficiency, helping stakeholders make data-driven decisions.
 - Opportunities and Challenges: The manager recognizes growth opportunities but is uncertain if the trend reflects the entire market or specific products. They aim to use data to analyze overall performance and avoid bias in evaluations.
 
+👤 Who is this project for?
+
+➡️ The Sales Manager can make data-driven decisions on expansion strategies.
+
+❓Business Questions:
