@@ -42,16 +42,17 @@
 📂 Dataset Description & Data Structure
 
 📌 Data Source
-Source: 🧷
-Size: 51,291 rows
-Format: .csv
+Source: [https://drive.google.com/drive/folders/1ipbzuuJut2j9v1bqyEtZzeORHPyFzalq?usp=sharing]
+Format: .xlsv
 
 
 📊 Data Structure & Relationships
+
 1️⃣ Tables Used:
 There're:
 
 1 fact table: Trip Details
+
 1 dim table: Location
 
 2️⃣ Table Schema & Data Snapshot
@@ -60,7 +61,7 @@ Table 2: Location
 
 3️⃣ Data Relationships:
 
-![image](https://github.com/user-attachments/assets/12ecbccd-7d46-49d5-8ff4-800d4284f0fc)
+![image](https://github.com/user-attachments/assets/d7571ebf-1fe0-4873-ac85-d5e4e7f555c3)
 
 
 🧠 Design Thinking Process
@@ -68,6 +69,9 @@ Table 2: Location
 1️⃣ Empathize
 
 ➡️ Applied 5W1H to define the problem
+
+![image](https://github.com/user-attachments/assets/7fc18750-54d0-4555-bd48-1295b15d1b70)
+
 
 ➡️ Empathy Map for Stakeholders
 
@@ -80,6 +84,30 @@ Table 2: Location
 
 3️⃣ Ideate
 
+4️⃣ Prototype and review
+
+⚒️ Main Process
+1️⃣ Apply CodeM to create Dim_Date table
+
+
+| Column Name | Description                         |
+|-------------|-------------------------------------|
+| Date        | The specific date.                  |
+| Date Name   | The name date of the given date.    |
+| Date Number | The date number  of the given date. |
+
+
+2️⃣ Apply DAX to calculate the metrics
+
+| Column Name                 | Description                                                                     |
+|-----------------------------|---------------------------------------------------------------------------------|
+| Average Booking Amount      | The average monetary value of each booking.                                       |
+| Average Trip Distance       | The average distance traveled for each trip (e.g., in miles or kilometers).      |
+| Average Trip Time           | The average duration of each trip (e.g., in minutes or hours).                  |
+| Most Frequent Drop-off Point | The most commonly occurring destination or drop-off location.                        |
+| Total Booking Amount        | The sum of the monetary values of all bookings.                                 |
+| Total Bookings              | The total number of bookings made.                                              |
+| Total Trip Distance         | The sum of the distances traveled for all trips (e.g., in miles or kilometers). |
 
 ⚒️ Main Process
 
