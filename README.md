@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/735810b5-c8a9-4eca-acaa-3448130803ab)#  Project Title: Uber Analysis 
+# 📊 Project Title: Project Title: Uber Analysis 
 
 🤵 Author: Lộc Huỳnh
 
@@ -75,16 +75,19 @@ Table 2: Location
 
 ➡️ Empathy Map for Stakeholders
 
+![image](https://github.com/user-attachments/assets/22ae349e-5f1c-45e1-a0c2-2cdbb9fcdfd3)
+
+
 2️⃣ Define point of view
 
 ➡️ Find the North star metric
 
+![image](https://github.com/user-attachments/assets/129ba09b-ada2-417b-a581-a2333ae8ee2a)
+
+
 ➡️ Dimension Data Group
+![image](https://github.com/user-attachments/assets/2d5855fe-174c-49d3-bc5c-6711305f27b3)
 
-
-3️⃣ Ideate
-
-4️⃣ Prototype and review
 
 ⚒️ Main Process
 1️⃣ Apply CodeM to create Dim_Date table
@@ -217,11 +220,6 @@ In-depth Research on Payment Methods and Trip Types:
 -More research is needed on the rates of usage of different payment methods and different trip types to create appropriate strategies, which could be promotions or forms of cooperation with payment partners.
 Marketing by Day of the Week:
 Focus marketing campaigns on high-booking days, while finding promotions for lower-booking days.
-# 3. Next Steps:
-1.Analyze data further to identify specific trends and patterns.
-2.Conduct A/B testing to evaluate the effectiveness of different pricing and promotion strategies.
-3.Collect customer feedback to better understand their needs and wants.
-4.Create additional dashboards to monitor key metrics in real time.
 
 
 
