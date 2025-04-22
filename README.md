@@ -208,17 +208,28 @@ Day of Week Variation: Bookings increase sharply on Fridays and Saturdays, with 
 -Consider offering promotions or discounts during off-peak hours and days to stimulate demand.
 # 2. Efficient Resource Management:
 -Allocate more drivers to high-demand areas (Penn Station/Madison Sq West and Upper East Side North) and during peak hours.
+
 -Ensure sufficient UberX vehicles to meet high demand.
+
 -Base on day of week data, increase driver counts on Fridays and Saturdays, and reduce drivers on Wednesdays.
+
 Focus on Preferred Vehicle Type:
 -Invest in increasing the number of UberX vehicles and ensure good service quality.
+
 -Consider implementing loyalty programs for UberX users.
+
 -Improve Customer Experience:
+
 -Monitor and improve wait times at frequent pick-up locations.
+
 -Ensure consistent service quality across all vehicle types.
+
 In-depth Research on Payment Methods and Trip Types:
+
 -More research is needed on the rates of usage of different payment methods and different trip types to create appropriate strategies, which could be promotions or forms of cooperation with payment partners.
+
 Marketing by Day of the Week:
+
 Focus marketing campaigns on high-booking days, while finding promotions for lower-booking days.
 
 
