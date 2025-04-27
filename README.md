@@ -1,3 +1,5 @@
+<img src ="https://www.pngmart.com/files/23/Uber-Logo-PNG-Image.png">
+
 # 📊 Project Title: Project Title: Uber Analysis 
 
 🤵 Author: Lộc Huỳnh
@@ -22,74 +24,71 @@
 
 ### Objective:
 
-## 📖 What is this project about? 
+### 📖 What is this project about? 
 
-- Business Perfomance : Analyse Uber trip data using Power BI to gain insights into booking trends, revenue, and trip efficiency, helping stakeholders make data-driven decisions.
-- Opportunities and Challenges: The manager recognizes growth opportunities but is uncertain if the trend reflects the entire market or specific products. They aim to use data to analyze overall performance and avoid bias in evaluations.
+- **Business Perfomance:** Analyse Uber trip data using Power BI to gain insights into booking trends, revenue, and trip efficiency, helping stakeholders make data-driven decisions.
+- **Opportunities and Challenges:** The manager recognizes growth opportunities but is uncertain if the trend reflects the entire market or specific products. They aim to use data to analyze overall performance and avoid bias in evaluations.
 
-👤 Who is this project for?
+### 👤 Who is this project for?
 
-➡️ The Sales Manager can make data-driven decisions on expansion strategies.
+➡️ **The Sales Manager** can make data-driven decisions on expansion strategies.
 
-❓Business Questions:
+### ❓Business Questions:
 - How to identify trends in ride bookings and revenue generation.
 - How to analyse trip efficiency in terms of distance and duration.
 - How to compare booking values and trip patterns across different time periods.
-  
-👤 Who is this project for?
-➡️ The  Manager can make data-driven decisions on expansion strategies.
 
-📂 Dataset Description & Data Structure
+## 📂 Dataset Description & Data Structure
 
 📌 Data Source
 Source: [https://drive.google.com/drive/folders/1ipbzuuJut2j9v1bqyEtZzeORHPyFzalq?usp=sharing]
 Format: .xlsv
 
 
-📊 Data Structure & Relationships
+### 📊 Data Structure & Relationships
 
-1️⃣ Tables Used:
+### 1️⃣ Tables Used:
 There're:
 
 1 fact table: Trip Details
 
 1 dim table: Location
 
-2️⃣ Table Schema & Data Snapshot
+### 2️⃣ Table Schema & Data Snapshot
 Table 1: Trip Details
 Table 2: Location
 
-3️⃣ Data Relationships:
+### 3️⃣ Data Relationships:
 
 ![image](https://github.com/user-attachments/assets/d7571ebf-1fe0-4873-ac85-d5e4e7f555c3)
 
 
-🧠 Design Thinking Process
+## 🧠 Design Thinking Process
 
 1️⃣ Empathize
 
 ➡️ Applied 5W1H to define the problem
 
-![image](https://github.com/user-attachments/assets/7fc18750-54d0-4555-bd48-1295b15d1b70)
+![image](https://github.com/user-attachments/assets/99baeacb-83c5-44ca-b803-782f9abd56e8)
 
 
 ➡️ Empathy Map for Stakeholders
 
-![image](https://github.com/user-attachments/assets/22ae349e-5f1c-45e1-a0c2-2cdbb9fcdfd3)
+![image](https://github.com/user-attachments/assets/3753560a-5ebf-470d-83a9-b8467f18e30e)
 
 
 2️⃣ Define point of view
 
 ➡️ Find the North star metric
 
-![image](https://github.com/user-attachments/assets/129ba09b-ada2-417b-a581-a2333ae8ee2a)
+![image](https://github.com/user-attachments/assets/636ac09e-d1b8-49b6-b76b-d8f8d1a00af4)
 
 
 ➡️ Dimension Data Group
-![image](https://github.com/user-attachments/assets/2d5855fe-174c-49d3-bc5c-6711305f27b3)
+![image](https://github.com/user-attachments/assets/3349be99-4376-4161-a92a-bb2847fff9d4)
 
 
-⚒️ Main Process
+## ⚒️ Main Process
 1️⃣ Apply CodeM to create Dim_Date table
 
 
@@ -112,15 +111,18 @@ Table 2: Location
 | Total Bookings              | The total number of bookings made.                                              |
 | Total Trip Distance         | The sum of the distances traveled for all trips (e.g., in miles or kilometers). |
 
-⚒️ Main Process
 
 3️⃣ Power BI Visualization (applicable for PBI Projects)
 
+# 📊 Key Insight Values to Improve Business:
+
+### 🔍 Dashboard Preview  
+
+
 📊 Dashboard 1: Overview
 
-![image](https://github.com/user-attachments/assets/a48327c7-52f9-4cf5-a9a8-af1d4d9322d0)
+![image](https://github.com/user-attachments/assets/7e66e767-d15a-4895-9eac-751bd9f20574)
 
-## Key Insight Values to Improve Business:
 
 ## Demand Management and Driver Allocation:
 
@@ -149,7 +151,7 @@ Value: Analyze trip times and distances to identify areas for improvement. Imple
 
 📊 Dashboard 2: Time Analysis
 
-![image](https://github.com/user-attachments/assets/bd63cc4d-0b61-4452-91c4-ef1beafe5d26)
+![image](https://github.com/user-attachments/assets/bc981a27-0d63-44c5-928a-d7a213f46ea7)
 ## Key Insight Values to Improve Business:
 
 ## Peak Hour Identification and Driver Allocation:
@@ -178,8 +180,8 @@ Customer Behavior Understanding:
 Value: Uber can use this to understand customer habits and tailor services to meet their needs. For example, if there's a surge in late-night bookings on weekends, they might focus on providing safer and more reliable late-night services.
 
 📊 Dashboard 3: Details
-![image](https://github.com/user-attachments/assets/30d02a38-7a4e-490a-826c-25564bc4c301)
-Key Data Points for Each Trip:
+![image](https://github.com/user-attachments/assets/daa7d651-cdd9-435b-8535-9ba464bb7da2)
+## Key Data Points for Each Trip:
 
 - Trip ID: A unique identifier for each trip.
 - Pick up Date: The date the trip started (all trips shown are on June 1, 2024).
@@ -193,20 +195,23 @@ Key Data Points for Each Trip:
 
 ## 🔎 Final Conclusion & Recommendations
 
-# This dashboard provides a basic overview of Uber trip data, focusing on:
+ **This dashboard provides a basic overview of Uber trip data, focusing on:**
 
-Overall Good Performance: Total bookings, total booking amount, and trip distance indicate that the business is performing quite well.
-Stable Average Values: The average booking amount and average trip distance are relatively stable, indicating a consistent pricing and distance model.
-Preferred Vehicle Type: UberX is the most preferred vehicle type, indicating that it is your main market segment.
-Frequent Pick-up/Drop-off Locations: Penn Station/Madison Sq West and Upper East Side North are important locations, indicating high demand areas.
+- Overall Good Performance: Total bookings, total booking amount, and trip distance indicate that the business is performing quite well.
+
+- Stable Average Values: The average booking amount and average trip distance are relatively stable, indicating a consistent pricing and distance model.
+
+- Preferred Vehicle Type: UberX is the most preferred vehicle type, indicating that it is your main market segment.
+
+- Frequent Pick-up/Drop-off Locations: Penn Station/Madison Sq West and Upper East Side North are important locations, indicating high demand areas.
 Day of Week Variation: Bookings increase sharply on Fridays and Saturdays, with the lowest bookings on Wednesdays.
 
-# Improvement Recommendations:
+**Improvement Recommendations:**
 
-# 1. Optimize Pricing Based on Time:
+ **1. Optimize Pricing Based on Time:**
 -Use peak hour and day data to implement a more effective dynamic pricing (surge pricing) strategy.
 -Consider offering promotions or discounts during off-peak hours and days to stimulate demand.
-# 2. Efficient Resource Management:
+ **2. Efficient Resource Management:**
 -Allocate more drivers to high-demand areas (Penn Station/Madison Sq West and Upper East Side North) and during peak hours.
 
 -Ensure sufficient UberX vehicles to meet high demand.
